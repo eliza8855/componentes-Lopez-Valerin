@@ -1,0 +1,13 @@
+.container {
+ background-color: blueviolet;
+
+ font-weight: bold;
+}
+
+a {
+    color:whitesmoke!important;
+}
+
+nav {
+    height: 100%;
+}
